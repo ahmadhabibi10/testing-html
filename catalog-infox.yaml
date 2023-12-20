@@ -4,5 +4,5 @@ metadata:
   name: "testing-backstage"
 spec:
   type: service
-  owner: user:guest
+  owner: reza
   lifecycle: experimental
